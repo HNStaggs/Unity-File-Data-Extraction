@@ -1,1 +1,8 @@
+#The following workflow is used to clean Unity .txt files from a game-like cognitive task.
+
+#change directory to location where .txt files are stored
+cd MasterDataFolder
+
+
+
 
